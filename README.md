@@ -64,6 +64,7 @@ You will see a start menu:
 
 ## 📌 Screenshots  
 
+<img width="1241" height="994" alt="Screenshot 2025-12-01 165502" src="https://github.com/user-attachments/assets/1f9e6b98-5293-42e8-99b8-50f4cf21cfe6" />
 
 
 ## 🔧 Future Enhancements (Optional)
